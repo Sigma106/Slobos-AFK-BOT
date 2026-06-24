@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "menu_python.aternos.me:11287",
-    "port": 29195,
-    "version": "1.21.1"
+    "port": 11287,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
